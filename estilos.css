@@ -23,6 +23,10 @@ nav ul {
   display: flex;
 }
 
+nav ul li {
+  text-decoration: none;
+}
+
 header {
   background-color: black;
   color: white;
